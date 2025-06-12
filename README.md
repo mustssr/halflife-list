@@ -1,6 +1,6 @@
 ## ABP/ublock订阅规则
 - ad-pc.txt：[推荐桌面端]合并自乘风视频广告过滤规则、Easylist、AdGuard Chinese filter、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则；
-  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad-pc.txt)
+  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad-pc.txt&title=ad-pc)
   * jsdelivr
   ```
   https://cdn.jsdelivr.net/gh/lolion1y/halflife-list@release/ad-pc.txt
@@ -10,7 +10,7 @@
   https://raw.githubusercontent.com/lolion1y/halflife-list/release/ad-pc.txt
   ```
 - ad-mo.txt：合并自Easylist、AdGuard Chinese filter、EasyPrivacy、CJX'sAnnoyance；
-  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad-mo.txt)
+  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad-mo.txt&title=ad-mo)
   * jsdelivr
   ```
   https://cdn.jsdelivr.net/gh/lolion1y/halflife-list@release/ad-mo.txt
@@ -20,7 +20,7 @@
   https://raw.githubusercontent.com/lolion1y/halflife-list/release/ad-mo.txt
   ```
 - ad.txt：[推荐移动端]合并自乘风视频广告过滤规则、AdGuard Chinese filter、EasylistLite、CJX'sAnnoyance，以及补充的一些规则；
-  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad.txt)
+  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad.txt&title=ad)
   * jsdelivr
   ```
   https://cdn.jsdelivr.net/gh/lolion1y/halflife-list@release/ad.txt
@@ -30,7 +30,7 @@
   https://raw.githubusercontent.com/lolion1y/halflife-list/release/ad.txt
   ```
 - ad2.txt：合并自乘风视频广告过滤规则、AdGuard Chinese filter、EasylistLite、CJX'sAnnoyance；
-  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad2.txt)
+  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad2.txt&title=ad2)
   * jsdelivr
   ```
   https://cdn.jsdelivr.net/gh/lolion1y/halflife-list@release/ad2.txt
@@ -40,7 +40,7 @@
   https://raw.githubusercontent.com/lolion1y/halflife-list/release/ad2.txt
   ```
 - ad3.txt：合并自乘风视频广告过滤规则、AdGuard Chinese filter、EasylistLite、CJX'sAnnoyance、EasyPrivacy；
-  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad3.txt)
+  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad3.txt&title=ad3)
   * jsdelivr
   ```
   https://cdn.jsdelivr.net/gh/lolion1y/halflife-list@release/ad3.txt
@@ -50,7 +50,7 @@
   https://raw.githubusercontent.com/lolion1y/halflife-list/release/ad3.txt
   ```
 - ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters。
-  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad-edentw.txt)
+  * [Subscribe](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flolion1y%2Fhalflife-list%2Frelease%2Fad-edentw.txt&title=ad-edentw.txt)
   * jsdelivr
   ```
   https://cdn.jsdelivr.net/gh/lolion1y/halflife-list@release/ad-edentw.txt
